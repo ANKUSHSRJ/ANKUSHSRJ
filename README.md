@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANKUSHSRJ
-- 👀 I’m interested in  ReactJS, React Native , C++, DSA 
+- 👀 I’m interested in  ReactJS, React Native, MERN, C++ & DSA 
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on React and DSA Problems
 - 📫 Reach me at ankushrolls@gmail.com 
