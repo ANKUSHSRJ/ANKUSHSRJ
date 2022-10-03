@@ -3,7 +3,7 @@
 ANKUSHSRJ/ANKUSHSRJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hello :wave:, I am Ankush 😃 
+# Hello :wave:, I am Ankush  
 - A Computer Science Engineer :sparkles:
 - A Frontend Developer :computer: phone
 - React Native Guy :new_moon_with_face:
